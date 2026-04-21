@@ -6,8 +6,8 @@ Google collab,
 python
 # Program
 ```
-Experiment 1# 1.Experimental verification of Signal sampling using various types.
-
+import numpy as np 
+import matplotlib.pyplot as plt
 fm = 5                      # Message frequency 5hz
 fs = 50                     # Sampling frequency 50hz
 t = np.linspace(0, 1, 1000) # Continuous time axis
@@ -56,6 +56,7 @@ plt.grid()
 
 plt.tight_layout()
 plt.show()
+
 ```
 # Output Waveform
 ```
