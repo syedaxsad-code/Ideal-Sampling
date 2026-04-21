@@ -67,5 +67,5 @@ plt.show()
 
 # Results
 ```
-Write a simple Python program for the construction and reconstruction of ideal, natural, and flattop sampling.
+Python program for the construction and reconstruction of ideal, natural, and flattop sampling is verified google colab
 ```
